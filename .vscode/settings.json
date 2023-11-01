@@ -1,0 +1,13 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32h2",
+  "idf.openOcdConfigs": ["board/esp32h2-ftdi.cfg"],
+  "idf.portWin": "COM8",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "esp_partition.h": "c",
+    "stdlib.h": "c"
+  },
+  "C_Cpp.default.compilerPath": "C:\\Users\\aziz\\.espressif\\tools\\riscv32-esp-elf\\esp-12.2.0_20230208\\riscv32-esp-elf\\bin\\riscv32-esp-elf-g++.exe"
+}

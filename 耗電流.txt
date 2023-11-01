@@ -1,0 +1,7 @@
+第一次啟動進入light sleep: 11.94 mA
+pin 9喚醒後藍芽廣播時: 32.25 mA
+藍芽連線時: 31.04 mA
+藍芽斷開後restart進入light sleep: 11.94 mA
+
+pin 10 ~ 14喚醒後: 29.43 mA
+10秒後restart進入light sleep: 11.94 mA
